@@ -1,4 +1,4 @@
 .env
 # Si trabajamos con node
 # Ocultamos carpeta
-node_modules/
+# node_modules/
